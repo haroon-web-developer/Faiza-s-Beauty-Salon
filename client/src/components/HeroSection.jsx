@@ -109,7 +109,7 @@ export default function HeroSection() {
             whileInView={{ scale: 1 }}
             transition={{ duration: 1.5, ease: "easeOut" }}
             viewport={{ once: true }}
-            src="https://scontent.fisb7-1.fna.fbcdn.net/v/t39.30808-6/473283074_1182093383273444_5088126468929380496_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=2a1932&_nc_ohc=3GQ0cTgXUOcQ7kNvwF3RnMN&_nc_oc=Adr77XOHIz5GOhReHgXojcgUZ4jiyl6O1anLzyzfYNHqtdLZVZgSvcW8Kj3RoU92qnA&_nc_zt=23&_nc_ht=scontent.fisb7-1.fna&_nc_gid=WYrSCRcSht7EOJGX64MDmw&_nc_ss=7a389&oh=00_Af0u7U8jxnSGLmfzw_tGanogcdnGzIcWLBAKRH3oi-7TWA&oe=69EE7634" 
+            src="https://scontent.fisb7-1.fna.fbcdn.net/v/t39.30808-6/473283074_1182093383273444_5088126468929380496_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=2a1932&_nc_ohc=ZH8ywFVM7nIQ7kNvwH833LS&_nc_oc=AdpRcTX3tizohHUBYPsevw_0h3Yi0EdFHpVKRmAaGKihaXbfntVZ52iW9cQwQdgkT3w&_nc_zt=23&_nc_ht=scontent.fisb7-1.fna&_nc_gid=wZiPQhhOaQo2o1HuKrsIlQ&_nc_ss=7b289&oh=00_Af22KQAVPxJzoZXcIn9AO2gMnjnmEIJ1fdtF1Hkkbznnkg&oe=69F7B0B4" 
             alt="Beautiful woman smiling" 
             className="w-full h-full object-cover" 
             referrerPolicy="no-referrer" 
