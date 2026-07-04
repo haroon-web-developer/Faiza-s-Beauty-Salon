@@ -95,7 +95,7 @@ export default function WhyChooseUsSection() {
             <img src="https://images.pexels.com/photos/33945859/pexels-photo-33945859.jpeg" alt="Spa environment" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
           </motion.div>
           <motion.div variants={imageFade} className="h-[150px] md:h-[200px] rounded-2xl overflow-hidden shadow-lg">
-            <img src="https://scontent.fisb7-1.fna.fbcdn.net/v/t51.82787-15/659372169_18581745469015015_8833833143629070402_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=13d280&_nc_ohc=iEE7sF0BTvoQ7kNvwFs5eBM&_nc_oc=Adpz3A0ycdzrrrVRMf_ggm-bDPNgExmQUqWjTrkzDd6zVnslX-DErlJI9-6XANh5kA8&_nc_zt=23&_nc_ht=scontent.fisb7-1.fna&_nc_gid=ehFqw5jb7GfPHJzh9NTasQ&_nc_ss=7a389&oh=00_Af0SpaUE6uS2tYQ4ZWO2FbzDEsFzjeC9XRLy4x-2AB0DBA&oe=69EE5BDB" alt="Facial treatment" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
+            <img src="https://images.pexels.com/photos/16120497/pexels-photo-16120497.jpeg" alt="Facial treatment" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
           </motion.div>
         </div>
         <div className="flex flex-col gap-4">
