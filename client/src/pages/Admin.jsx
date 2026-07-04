@@ -35,7 +35,7 @@ export default function Admin() {
   const handleLogin = (e) => {
     e.preventDefault();
     // Simple hardcoded PIN for the prototype demo
-    if (passcode === 'Faiza123' || passcode === '0000') {
+    if (passcode === 'admin123' || passcode === '0000') {
       setIsAuthenticated(true);
       sessionStorage.setItem('admin_auth', 'true');
       setError('');
