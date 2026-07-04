@@ -57,7 +57,7 @@ export default function PackagesSection() {
 
       <div className="relative h-[350px] sm:h-[450px] lg:h-[500px] order-1 lg:order-2 w-full max-w-[500px] mx-auto lg:max-w-none">
         <div className="absolute right-0 top-0 w-[65%] h-[75%] lg:h-[400px] rounded-t-full rounded-bl-full overflow-hidden shadow-lg z-10">
-          <img src="https://bloomandblossom.ae/wp-content/uploads/2026/04/Nano-Banana-2-A-professional-salon-scene-featuring-a-beautiful-woman-with-flawless_-glowing-skin_-dr_2-4-1024x682.png" alt="Salon interior" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
+          <img src="https://images.pexels.com/photos/12346563/pexels-photo-12346563.jpeg" alt="Salon interior" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
         </div>
         <div className="absolute left-0 bottom-0 w-[65%] h-[75%] lg:h-[400px] rounded-t-full rounded-br-full overflow-hidden shadow-lg">
           <img src="https://i.pinimg.com/736x/09/bf/fd/09bffda4a46ce565a188558ef4584cea.jpg" alt="Salon interior" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
