@@ -109,7 +109,7 @@ export default function HeroSection() {
             whileInView={{ scale: 1 }}
             transition={{ duration: 1.5, ease: "easeOut" }}
             viewport={{ once: true }}
-            src="https://images.pexels.com/photos/12346563/pexels-photo-12346563.jpeg" 
+            src="https://bloomandblossom.ae/wp-content/uploads/2026/04/Nano-Banana-2-A-professional-salon-scene-featuring-a-beautiful-woman-with-flawless_-glowing-skin_-dr_2-4-1024x682.png" 
             alt="Beautiful woman smiling" 
             className="w-full h-full object-cover" 
             referrerPolicy="no-referrer" 
