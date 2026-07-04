@@ -76,7 +76,7 @@ export default function HeroSection() {
           >
             <span>✨</span> Book Online
           </button>
-          <a href="https://wa.me/923137386619?text=Hello%20Faiza's%20Beauty%20Salon!%20I%20would%20like%20to%20book.%0A%0A*Name:*%20%0A*Phone:*%20%0A*Service:*%20%0A*Date/Time:*%20%0A%0A(Please%20fill%20in%20your%20details%20above)" target="_blank" rel="noopener noreferrer" className="bg-[#2A2A2A] text-white px-8 py-4 text-[12px] uppercase tracking-widest hover:bg-black transition-colors flex items-center gap-2">
+          <a href="https://wa.me/923214576734?text=Hello%20Faiza's%20Beauty%20Salon!%20I%20would%20like%20to%20book.%0A%0A*Name:*%20%0A*Phone:*%20%0A*Service:*%20%0A*Date/Time:*%20%0A%0A(Please%20fill%20in%20your%20details%20above)" target="_blank" rel="noopener noreferrer" className="bg-[#2A2A2A] text-white px-8 py-4 text-[12px] uppercase tracking-widest hover:bg-black transition-colors flex items-center gap-2">
             <span>💬</span> WhatsApp Info
           </a>
         </motion.div>
@@ -109,7 +109,7 @@ export default function HeroSection() {
             whileInView={{ scale: 1 }}
             transition={{ duration: 1.5, ease: "easeOut" }}
             viewport={{ once: true }}
-            src="https://scontent.fisb7-1.fna.fbcdn.net/v/t39.30808-6/473283074_1182093383273444_5088126468929380496_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=2a1932&_nc_ohc=ZH8ywFVM7nIQ7kNvwH833LS&_nc_oc=AdpRcTX3tizohHUBYPsevw_0h3Yi0EdFHpVKRmAaGKihaXbfntVZ52iW9cQwQdgkT3w&_nc_zt=23&_nc_ht=scontent.fisb7-1.fna&_nc_gid=wZiPQhhOaQo2o1HuKrsIlQ&_nc_ss=7b289&oh=00_Af22KQAVPxJzoZXcIn9AO2gMnjnmEIJ1fdtF1Hkkbznnkg&oe=69F7B0B4" 
+            src="https://images.pexels.com/photos/12346563/pexels-photo-12346563.jpeg" 
             alt="Beautiful woman smiling" 
             className="w-full h-full object-cover" 
             referrerPolicy="no-referrer" 
